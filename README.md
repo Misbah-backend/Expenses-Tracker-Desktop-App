@@ -60,15 +60,6 @@ The login screen appears. Create your first account to start tracking!
 
 Screenshots
 
-![Login](image-11.png)
-![Dashboard](image-3.png)
-![AddCategory](image-12.png)
-![Add Expenses](image-4.png)
-![ViewExpenses](image-13.png)
-![BarChart](image-6.png)
-![Pie Chart](image-7.png)
-![Resetpassword](image-15.png)
-![Sign up](image-14.png)
 
 
 Project Structure
