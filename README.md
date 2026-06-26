@@ -67,8 +67,8 @@ Screenshots
 ![ViewExpenses](image-13.png)
 ![BarChart](image-6.png)
 ![Pie Chart](image-7.png)
-![Sign up](image-14.png)
 ![Resetpassword](image-15.png)
+![Sign up](image-14.png)
 
 
 Project Structure
