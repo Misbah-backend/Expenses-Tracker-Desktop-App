@@ -85,16 +85,3 @@ Contributions are welcome! If you find a bug, have a feature request, or want to
 🐛 Open an Issue
 🌿 Create a Pull Request
 📝 Suggest improvements in Discussions
-License
-This project is licensed under the MIT License. See the LICENSE file for details.
-
-text
-
-
-### 🔍 Quick Tips Before Committing:
-1. Replace `your-username` in the clone URL with your actual GitHub username.
-2. Drop your actual screenshots into a `Screenshots/` folder and update the filenames in the `## Screenshots` section.
-3. Add a `LICENSE` file to your repo (GitHub can generate one for you during repo creation).
-4. If you're not using Maven/Gradle, add the exact `.jar` filenames to the `-cp` command in step 3.
-
-Copy-paste this directly into your `README.md`. It will render perfectly on GitHub and accurately reflect your codebase. Let me know if you want a `LICENSE` file, `.gitignore`, or a `pom.xml`/`build.gradle` template next! 🚀
