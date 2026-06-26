@@ -59,6 +59,7 @@ The app auto-creates expenses.db and required tables
 The login screen appears. Create your first account to start tracking!
 
 Screenshots
+<img width="1600" height="838" alt="image" src="https://github.com/user-attachments/assets/802e0a52-af96-4cde-9f6b-353898b52b90" />
 
 
 
