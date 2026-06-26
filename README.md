@@ -59,7 +59,22 @@ The app auto-creates expenses.db and required tables
 The login screen appears. Create your first account to start tracking!
 
 Screenshots
-<img width="1600" height="838" alt="image" src="https://github.com/user-attachments/assets/802e0a52-af96-4cde-9f6b-353898b52b90" />
+<img width="1600" height="841" alt="image" src="https://github.com/user-attachments/assets/468f7ebd-7c5e-4b42-8e44-d1ef4449f325" />
+<img width="1600" height="839" alt="image" src="https://github.com/user-attachments/assets/36a15b4f-42ca-44bc-9e93-8a6c51e05ed0" />
+<img width="1600" height="838" alt="image" src="https://github.com/user-attachments/assets/db833b82-880e-4b82-8d16-bb71801306fc" />
+<img width="1600" height="839" alt="image" src="https://github.com/user-attachments/assets/f58a3398-ff55-4bc7-9865-816c7f914bd2" />
+<img width="1600" height="840" alt="image" src="https://github.com/user-attachments/assets/168d8fa8-fbe3-4eda-aba2-2147ce2985d6" />
+<img width="1600" height="839" alt="image" src="https://github.com/user-attachments/assets/49f7b1a6-69b3-4c96-a547-54c28b746849" />
+<img width="1600" height="839" alt="image" src="https://github.com/user-attachments/assets/68bc4e07-bf7b-4855-9098-28ac0e29bc32" />
+<img width="1600" height="838" alt="image" src="https://github.com/user-attachments/assets/28196ab1-5c50-40e9-9e22-87fdfb6622f2" />
+<img width="1600" height="841" alt="image" src="https://github.com/user-attachments/assets/81d4a9aa-61c0-466e-8e51-1fa0388c4f6d" />
+
+
+
+
+
+
+
 
 
 
